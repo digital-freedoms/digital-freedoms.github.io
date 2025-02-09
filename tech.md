@@ -7,6 +7,7 @@ Spotify
 - 2022: [How Spotify Is Quietly Supporting the Military-Industrial Complex](https://inthesetimes.com/article/spotify-military-industrial-complex-daniel-ek-prima-materia-helsing)
 
 Meta:
+- 2025: [“Torrenting from a corporate laptop doesn’t feel right”: Meta emails unsealed](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 - 2025: [Why did Mark Zuckerberg end Facebook and Instagram’s factchecking program?](https://www.theguardian.com/technology/2025/jan/07/why-did-mark-zuckerberg-end-facebook-instagram-fact-checking)
 - 2024: [Meta donates $1m to Donald Trump’s inaugural fund](https://www.theguardian.com/us-news/2024/dec/12/meta-donates-1m-to-donald-trumps-inaugural-fund)
 - 2022: [I’ve seen the metaverse – and I don’t want it](https://www.theguardian.com/games/2022/jan/25/ive-seen-the-metaverse-and-i-dont-want-it)
